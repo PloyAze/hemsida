@@ -1,0 +1,32 @@
+h1 {
+  padding: 25px;
+  margin: 0px;
+  font-family: fantasy;
+  text-align-last: left;
+  font-size: 75px;
+  background-color: rgb(204, 55, 80);
+  color: black;
+}
+
+body {
+  background-image: url(../Html/BackgroundPink.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+ul {
+  float: right;
+  list-style: none;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 5px 165px;
+  border: 1px solid #fff;
+}
